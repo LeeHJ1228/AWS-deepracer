@@ -4,6 +4,8 @@
 ![181818](https://github.com/user-attachments/assets/f2c31735-f082-4c00-aad1-6d47d840082e)
 
 이 웨이포인트 따라가려고 노력중
+![image](https://github.com/user-attachments/assets/3118f5b4-71ab-4dab-a159-4e22431fea42)
+![image](https://github.com/user-attachments/assets/b5535d9d-2e9c-4c13-b498-c1db34836529)
 
 실습시 현재 문제점 
 1. 우회전 안함 ??????????????????????? 기도합시다
